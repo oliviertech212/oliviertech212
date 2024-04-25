@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliviertech212&show_icons=true)
-<img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviertech212&layout=compact"/>
+
                                                      
