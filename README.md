@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
 <img align="right" width="50%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oliviertech212&layout=compact&hide=html" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oliviertech212&show_icons=true)
-
+-->
                                                      
 
 
@@ -26,9 +28,15 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oliviertech212&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oliviertech212&theme=dracula)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviertech212&layout=compact&hide_progress=true&langs_count=8)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=oliviertech212&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oliviertech212&theme=dracula)
+
+
+
+
+
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oliviertech212&layout=compact&langs_count=8) -->
 
 ## 🚀 About Me
 
